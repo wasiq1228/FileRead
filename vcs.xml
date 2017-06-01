@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/wasiq1228/creative-scala-template.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/underscoreio/doodle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\MyFolder\Scala_Workspace" />
